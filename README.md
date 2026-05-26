@@ -1,1 +1,5 @@
-# Khoahocdulieu_Kmeans
+# BÀI TẬP PHÂN CỤM
+
+## Link video: 
+
+## 
